@@ -16,16 +16,12 @@ Self-taught I started programming at the age of 10 using Visual Basic. Writing r
 I started my career with PHP. I worked on C# for a while, building Desktop apps for Windows and Mobile apps using Xamarin. Currently I have been working with Flutter.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/solobits"><img src="https://solobits.dev/images/linkedin2x.png"/></a>
 <a href="https://www.youtube.com/channel/UCZ4HJTxOHYSvzBmjs4BeooQ"><img src="https://solobits.dev/images/youtube2x.png"/></a>
 <a href="https://twitter.com/solobits_nelson"><img src="https://solobits.dev/images/twitter2x.png"/></a>
-
   
 </p>
 
