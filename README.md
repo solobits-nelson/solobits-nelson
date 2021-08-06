@@ -22,7 +22,6 @@ I started my career with PHP. I worked on C# for a while, building Desktop apps 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.solobits.dev"><img src="https://solobits.dev/images/fav_icon.png"/></a>
 <a href="https://www.linkedin.com/in/solobits"><img src="https://solobits.dev/images/linkedin2x.png"/></a>
 <a href="https://www.youtube.com/channel/UCZ4HJTxOHYSvzBmjs4BeooQ"><img src="https://solobits.dev/images/youtube2x.png"/></a>
 <a href="https://twitter.com/solobits_nelson"><img src="https://solobits.dev/images/twitter2x.png"/></a>
